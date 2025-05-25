@@ -35,6 +35,12 @@
 
 ---
 
+### 📺 YouTube Channel
+<a href="https://www.youtube.com/@FilosofiHidupStoik" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Channel" />
+</a>
+
+
 ### 📊 GitHub Stats
 
 <p align="left">
@@ -47,7 +53,7 @@
 ### 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dennisparulianpanjaitan)  
-📧 **drekoraco01@gmail.com**
+📧 **Dennis Parulian Panjaitan**
 
 ---
 
